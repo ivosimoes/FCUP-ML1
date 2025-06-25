@@ -3,7 +3,7 @@
 ## Summary
 Project made for 2022/2023 edition of Machine Learning I course
 
-**Theme**: Implementation and modification of k-NN to improve performance on multiclass problems
+**Theme**: Implementation and modification of k-NN to improve performance on various multiclass problems
 
 ## Grade: 16/20
 
